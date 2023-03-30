@@ -1,0 +1,16 @@
+
+.container-fluid{
+    background-color: beige; 
+
+font-style: italic;}
+
+.carousel slide col-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h2{
+ color: rgb(15, 150, 150);
+}
+
